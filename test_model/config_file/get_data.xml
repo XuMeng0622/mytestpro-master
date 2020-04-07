@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<apps>
+  <app>
+    <id>1</id>
+    <name>Google Maps</name>
+    <version>1.0</version>
+    <download path='xiaomi market'/>
+  </app>
+  <app>
+    <id>2</id>
+    <name>Chrome</name>
+    <version>2.1</version>
+    <download path='huawei market'/>
+  </app>
+  <app>
+    <id>3</id>
+    <name>Google Play</name>
+    <version>2.3</version>
+    <download path='android market'/>
+  </app>
+</apps>
